@@ -1,7 +1,7 @@
 ---
-layout: page
-title: DUMMY11'S BLOG
-tagline: Supporting tagline
+layout: post
+title: Home Page
+tagline: 
 ---
 {% include JB/setup %}
 
