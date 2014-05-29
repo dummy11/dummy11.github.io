@@ -20,7 +20,7 @@ In `_config.yml` remember to specify your own data:
       email : blah@email.test
       github : username
       twitter : username
-
+more home page 
 
 
 
